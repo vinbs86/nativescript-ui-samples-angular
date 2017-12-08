@@ -29,7 +29,7 @@
     "nativescript-angular": "^5.1.0-2017-12-6-2",
     "nativescript-fresco": "^3.0.2",
     "nativescript-intl": "^3.0.0",
-    "nativescript-pro-ui": "3.2.0",
+    "nativescript-pro-ui": "^3.3.0-2017-12-7-3",
     "nativescript-unit-test-runner": "^0.3.2",
     "rxjs": "^5.5.0",
     "tns-core-modules": "^4.0.0-2017-12-8-1",
